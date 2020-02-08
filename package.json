@@ -1,8 +1,8 @@
 {
-	"name":"node-express-init",
-	"description":"Initial file for a node express setup",
-    "dependencies": {
-        "body-parser": "^1.14.1",
-        "express": "^4.13.3"
-    }
+   "name": "node-express-init",
+   "description": "Initial file for a node express setup",
+   "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1"
+   }
 }
